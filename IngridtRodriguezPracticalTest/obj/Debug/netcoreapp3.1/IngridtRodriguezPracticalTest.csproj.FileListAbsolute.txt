@@ -1,0 +1,14 @@
+C:\Users\ingri\OneDrive\Desktop\Global\IngridtRodriguezPracticalTest\bin\Debug\netcoreapp3.1\IngridtRodriguezPracticalTest.exe
+C:\Users\ingri\OneDrive\Desktop\Global\IngridtRodriguezPracticalTest\bin\Debug\netcoreapp3.1\IngridtRodriguezPracticalTest.deps.json
+C:\Users\ingri\OneDrive\Desktop\Global\IngridtRodriguezPracticalTest\bin\Debug\netcoreapp3.1\IngridtRodriguezPracticalTest.runtimeconfig.json
+C:\Users\ingri\OneDrive\Desktop\Global\IngridtRodriguezPracticalTest\bin\Debug\netcoreapp3.1\IngridtRodriguezPracticalTest.runtimeconfig.dev.json
+C:\Users\ingri\OneDrive\Desktop\Global\IngridtRodriguezPracticalTest\bin\Debug\netcoreapp3.1\IngridtRodriguezPracticalTest.dll
+C:\Users\ingri\OneDrive\Desktop\Global\IngridtRodriguezPracticalTest\bin\Debug\netcoreapp3.1\IngridtRodriguezPracticalTest.pdb
+C:\Users\ingri\OneDrive\Desktop\Global\IngridtRodriguezPracticalTest\obj\Debug\netcoreapp3.1\IngridtRodriguezPracticalTest.csproj.AssemblyReference.cache
+C:\Users\ingri\OneDrive\Desktop\Global\IngridtRodriguezPracticalTest\obj\Debug\netcoreapp3.1\IngridtRodriguezPracticalTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ingri\OneDrive\Desktop\Global\IngridtRodriguezPracticalTest\obj\Debug\netcoreapp3.1\IngridtRodriguezPracticalTest.AssemblyInfoInputs.cache
+C:\Users\ingri\OneDrive\Desktop\Global\IngridtRodriguezPracticalTest\obj\Debug\netcoreapp3.1\IngridtRodriguezPracticalTest.AssemblyInfo.cs
+C:\Users\ingri\OneDrive\Desktop\Global\IngridtRodriguezPracticalTest\obj\Debug\netcoreapp3.1\IngridtRodriguezPracticalTest.csproj.CoreCompileInputs.cache
+C:\Users\ingri\OneDrive\Desktop\Global\IngridtRodriguezPracticalTest\obj\Debug\netcoreapp3.1\IngridtRodriguezPracticalTest.dll
+C:\Users\ingri\OneDrive\Desktop\Global\IngridtRodriguezPracticalTest\obj\Debug\netcoreapp3.1\IngridtRodriguezPracticalTest.pdb
+C:\Users\ingri\OneDrive\Desktop\Global\IngridtRodriguezPracticalTest\obj\Debug\netcoreapp3.1\IngridtRodriguezPracticalTest.genruntimeconfig.cache
